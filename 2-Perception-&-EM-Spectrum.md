@@ -1,13 +1,13 @@
 # Electromagnetic Spectrum
 
-![](Images/Types-of-Electromagnetic-Radiation.jpg)
+<img src="Images/Types-of-Electromagnetic-Radiation.jpg" style="zoom:80%;" />
 
 * Radio waves have long wave lengths and low energy
 * Gamma rays have short wave lengths and high energy
 
 * Visible light is one component of many waveforms in the electromagnetic spectrum (400-700nm)
 
-<img src="C:\Users\Dan\Documents\GitHub\Introduction-to-Multimedia\Images\Visible-Light-Spectrum.png" style="zoom:80%;" />
+<img src="Images/Visible-Light-Spectrum.png" style="zoom:80%;" />
 
 * All electromagnetic waves travel at the speed of light
 
