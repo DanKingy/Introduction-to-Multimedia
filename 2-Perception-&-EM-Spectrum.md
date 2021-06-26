@@ -1,6 +1,6 @@
 # Electromagnetic Spectrum
 
-<img src="C:\Users\Dan\Documents\GitHub\Introduction-to-Multimedia\Images\Types-of-Electromagnetic-Radiation.jpg" style="zoom:80%;" />
+![](Images/Types-of-Electromagnetic-Radiation.jpg)
 
 * Radio waves have long wave lengths and low energy
 * Gamma rays have short wave lengths and high energy
