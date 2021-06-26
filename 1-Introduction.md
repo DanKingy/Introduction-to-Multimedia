@@ -28,6 +28,18 @@
 
 *"The provision of audio and video material cross-referenced to a computer text"*
 
+* An interactive presentation that includes at least two of the following:
+  * Text
+  * Sound
+  * Graphic images
+  * Motion graphics
+
+* Multimedia computers serve as two primary functions:
+  * Development tools (Adobe, Apple, Unity etc.)
+  * Delivery medium for multimedia presentations (browser plug-ins)
+
+
+
 
 
 
