@@ -28,14 +28,14 @@
 * Modern displays are made up of discrete pixels, so coordinate values can only be integers
 * This gives diagonal or curved lines a *stepped* appearance
 
-| <img src="Images/No-Aliasing.png"/> | <img src="Images/Aliasing-1.png"/> | <img src="Images/Aliasing-2.png"/> |
+| <img src="Images/No-Aliasing.PNG"/> | <img src="Images/Aliasing-1.PNG"/> | <img src="Images/Aliasing-2.PNG"/> |
 | :---------------------------------: | :--------------------------------: | :--------------------------------: |
 |             No aliasing             |      Aliasing with gridlines       |     Aliasing without gridlines     |
 
 * Rendering a vector as an image made of pixels can be considered as a type of sampling and reconstruction
 * As the resolution of the display increases, jagged edges become less pronounced
 
-<img src="Images/Aliasing-3.png"/>
+<img src="Images/Aliasing-3.PNG"/>
 
 
 
