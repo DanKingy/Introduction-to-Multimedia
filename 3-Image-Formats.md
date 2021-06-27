@@ -44,7 +44,7 @@
 * Removes parts of the data without it being too noticeable
   * The eye is relatively poor in distinguishing differences in chrominance (changes in colour)
 
-<img src="Images/chrominance-difference.PNG"/>
+<img src="Images/chrominance-difference.png"/>
 
 
 
