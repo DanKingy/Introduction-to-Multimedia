@@ -35,8 +35,9 @@
 * Rendering a vector as an image made of pixels can be considered as a type of sampling and reconstruction
 * As the resolution of the display increases, jagged edges become less pronounced
 
-| <img src="Images/Aliasing-3.PNG"/> |
-| :--------------------------------: |
+<p align="center">
+<img src="Images/Aliasing-3.PNG"/>
+</p>
 
 
 
