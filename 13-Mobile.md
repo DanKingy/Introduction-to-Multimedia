@@ -1,5 +1,3 @@
-[TOC]
-
 # Types of Apps
 
 * Web Apps - HTML5, CSS, JavaScript
