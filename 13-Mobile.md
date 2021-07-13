@@ -28,7 +28,7 @@
 
 * Gyroscope
 
-<img src="Images/Gyro.png" />
+<img src="Images/Gyro.PNG" />
 
 * Accelerometer
 * Compass/Magnetometer
