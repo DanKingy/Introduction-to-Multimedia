@@ -700,4 +700,3 @@ There are many server side scripting technologies:
 
 * iOS - Apple
 * Android - Google, Samsung, HTC
-
