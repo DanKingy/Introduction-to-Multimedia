@@ -44,14 +44,14 @@
 
 # Electromagnetic Spectrum
 
-<img src="C:/Users/douga/OneDrive/Documents/GitHub/Introduction-to-Multimedia/Images/Types-of-Electromagnetic-Radiation.jpg" style="zoom:80%;" />
+<img src="Images/Types-of-Electromagnetic-Radiation.jpg" style="zoom:80%;" />
 
 * Radio waves have long wave lengths and low energy
 * Gamma rays have short wave lengths and high energy
 
 * Visible light is one component of many waveforms in the electromagnetic spectrum (400-700nm)
 
-<img src="C:/Users/douga/OneDrive/Documents/GitHub/Introduction-to-Multimedia/Images/Visible-Light-Spectrum.png" style="zoom:80%;" />
+<img src="Images/Visible-Light-Spectrum.png" style="zoom:80%;" />
 
 * All electromagnetic waves travel at the speed of light
 
@@ -167,7 +167,7 @@ The retina contains two sorts of light receptor cells:
 * Removes parts of the data without it being too noticeable
   * The eye is relatively poor in distinguishing differences in chrominance (changes in colour)
 
-<img src="C:/Users/douga/OneDrive/Documents/GitHub/Introduction-to-Multimedia/Images/chrominance-difference.PNG"/>
+<img src="Images/chrominance-difference.PNG"/>
 
 
 
@@ -338,7 +338,7 @@ Fundamental objects used to create vector images:
 
 * The DNS is a database that resolves URL to IP address
 
-<img src="C:\Users\douga\OneDrive\Documents\GitHub\Introduction-to-Multimedia\Images\domain-name-system.jpg" />
+<img src="Images\domain-name-system.jpg" />
 
 
 
@@ -686,7 +686,7 @@ There are many server side scripting technologies:
 
 * Gyroscope
 
-<img src="C:\Users\douga\OneDrive\Documents\GitHub\Introduction-to-Multimedia\Images\Gyro.PNG" />
+<img src="Images\Gyro.PNG" />
 
 * Accelerometer
 * Compass/Magnetometer
